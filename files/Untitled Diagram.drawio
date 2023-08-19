@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-19T10:08:58.308Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="CXFdQkypK0UyvFkwTPQI" version="21.6.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-08-19T15:26:26.075Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="SLTE4zwrj6ZxQ7Sh91kE" version="21.6.8" type="github" pages="5">
   <diagram name="Page-1" id="a4xb-gLP5AdaKO1f3Zdw">
     <mxGraphModel dx="989" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -706,6 +706,38 @@
         </mxCell>
         <mxCell id="0cW665gZBFwFAL_BoMGd-78" value="Transaction" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="732.5" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="X3b7g8ikki6a9_N2i9Kx" name="Page-5">
+    <mxGraphModel dx="1434" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="t1uRa8L7xPpBnHQuknCV-15" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="110" y="265" width="550" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="t1uRa8L7xPpBnHQuknCV-1" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;font color=&quot;#007fff&quot;&gt;did&lt;/font&gt;:&lt;font color=&quot;#cc6600&quot;&gt;example&lt;/font&gt;:&lt;font color=&quot;#4d9900&quot;&gt;123456789abcdefghijk&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="238" y="340" width="310" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="t1uRa8L7xPpBnHQuknCV-5" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=90;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="170" y="300" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="t1uRa8L7xPpBnHQuknCV-6" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="255" y="315" width="20" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="t1uRa8L7xPpBnHQuknCV-7" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="470" y="220" width="20" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="t1uRa8L7xPpBnHQuknCV-12" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Scheme&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t1uRa8L7xPpBnHQuknCV-13" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;DID Method&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="380" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t1uRa8L7xPpBnHQuknCV-14" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;DID Method Specific String&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="380" width="280" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
