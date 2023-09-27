@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-27T12:33:36.071Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="o0fiiF7PnIVn6_8Q2s7a" version="21.8.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-09-27T12:37:49.425Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="841-87UybbEDjPOkQgW6" version="21.8.2" type="github" pages="4">
   <diagram name="Page-1" id="nzDO3ZbdwUi7aDr2axk2">
     <mxGraphModel dx="3187" dy="1700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -848,7 +848,7 @@
         <mxCell id="2feV3Cc7q5tQlcd-S3wu-17" value="Farmer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="1267" y="1156" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2feV3Cc7q5tQlcd-S3wu-18" value="Digital Sharecropper" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="2feV3Cc7q5tQlcd-S3wu-18" value="Digital Sharecroppers" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="1102.5" y="1030" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2feV3Cc7q5tQlcd-S3wu-19" value="Investor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontStyle=1;" vertex="1" parent="1">
