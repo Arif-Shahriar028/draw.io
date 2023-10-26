@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-26T07:43:22.268Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="wofgllslzDF_JZNs-74N" version="22.0.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-10-26T07:44:32.172Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="P0fTph4_Zy4bVR4EeWTt" version="22.0.8" type="github" pages="5">
   <diagram name="Page-1" id="nzDO3ZbdwUi7aDr2axk2">
     <mxGraphModel dx="1909" dy="1049" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -2398,7 +2398,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yDunjxrDDkh3ZAlK3NaH-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;glass=0;shadow=0;labelBorderColor=none;textOpacity=5;" vertex="1" parent="1">
+        <mxCell id="yDunjxrDDkh3ZAlK3NaH-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;glass=0;shadow=0;labelBorderColor=none;textOpacity=5;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="1587.17" y="1340" width="262.83" height="147.86" as="geometry" />
         </mxCell>
         <mxCell id="yDunjxrDDkh3ZAlK3NaH-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;strokeWidth=3;" edge="1" parent="1">
@@ -2422,7 +2422,7 @@
         <mxCell id="yDunjxrDDkh3ZAlK3NaH-16" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;Investor&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontStyle=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="1004.804347826087" y="1598.75" width="116.08695652173913" height="73.92857142857143" as="geometry" />
         </mxCell>
-        <mxCell id="yDunjxrDDkh3ZAlK3NaH-17" value="2. Request for land lending" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=26;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="yDunjxrDDkh3ZAlK3NaH-17" value="2. Request for land lending" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=26;fontStyle=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="1374.3478260869565" y="1340" width="232.17391304347825" height="73.92857142857143" as="geometry" />
         </mxCell>
         <mxCell id="yDunjxrDDkh3ZAlK3NaH-18" value="3. Request for land allocation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=26;fontStyle=1;strokeWidth=3;" vertex="1" parent="1">
